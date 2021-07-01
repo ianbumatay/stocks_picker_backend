@@ -8,7 +8,7 @@ class Stock < ApplicationRecord
     end 
 
     def to_capitalize
-        self.name.capitalize
+        self.name.capitalize!
     end 
 
 end

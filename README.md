@@ -1,24 +1,40 @@
-# README
+The Stocks Picker  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to my React and Redux Portfolio Project The Stocks Picker. The concept is to build a online trading platform that allow the community of traders to analyze the underlying and pick weather they are bullish or bearish on the specific underlying. The application has ability to search for stocks and post a stock that you wanted to be analyze.
 
-Things you may want to cover:
+Instillation
+Frontend Repository.
+(https://github.com/ianbumatay/stocks_picker_frontend)
 
-* Ruby version
+go to github and clone Repository.
 
-* System dependencies
+cd stocks_picker-frontend
 
-* Configuration
+npm start 
 
-* Database creation
+and go to https://localhost/3001 in your browser
 
-* Database initialization
+Backend Repository:
+(https://github.com/ianbumatay/stocks_picker_backend)
 
-* How to run the test suite
+go to github
 
-* Services (job queues, cache servers, search engines, etc.)
+and clone the repository.
 
-* Deployment instructions
+cd to stocks_picker_backend
 
-* ...
+run rails s
+
+go to https://localhost/3000/api/v1/stocks in your browser.
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+License
+MIT
+
+Code of conduct
+Everyone interacting in the The Bulletins project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
+
